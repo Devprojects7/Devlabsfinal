@@ -237,7 +237,7 @@ const autoCorrectDictionary = {
     "label": "<label for='' id='' name=''></label>",
     "input": "<input type='' id=''>",
     "button": "<button type='submit' id=''></button>",
-    "p": "<p></p>",
+    "pt": "<p></p>",
     "h1": "<h1></h1>",
     "h2": "<h2></h2>",
     "h3": "<h3></h3>",
